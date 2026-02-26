@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Sunset Over Mountains",
+    "category": "painting",
+    "price": 899,
+    "image": "🎨",
+    "featured": true,
+    "description": "A breathtaking oil painting capturing the golden hour over majestic mountains. This piece brings warmth and serenity to any space.",
+    "details": "Oil on canvas, 36x24 inches, Signed by artist",
+    "shortDescription": "Golden hour mountain landscape"
+  },
+  {
+    "id": 2,
+    "name": "Abstract Dreams",
+    "category": "painting",
+    "price": 650,
+    "image": "🖼️",
+    "featured": true,
+    "description": "An imaginative abstract painting with bold colors and dynamic shapes. Perfect for modern and contemporary interiors.",
+    "details": "Acrylic on canvas, 30x30 inches, Certificate of authenticity",
+    "shortDescription": "Modern abstract mixed media"
+  },
+  {
+    "id": 3,
+    "name": "Philosophical Musings",
+    "category": "book",
+    "price": 45,
+    "image": "📚",
+    "featured": true,
+    "description": "A collection of thought-provoking essays and reflections on art, life, and human connection. Beautifully illustrated throughout.",
+    "details": "Hardcover, 256 pages, Limited edition",
+    "shortDescription": "Essays on art and philosophy"
+  },
+  {
+    "id": 4,
+    "name": "Ocean's Whisper",
+    "category": "painting",
+    "price": 750,
+    "image": "🌊",
+    "featured": false,
+    "description": "A serene seascape with gentle waves and soft colors. Evokes the peaceful energy of the ocean.",
+    "details": "Watercolor on paper, 24x18 inches",
+    "shortDescription": "Coastal seascape"
+  },
+  {
+    "id": 5,
+    "name": "The Artist's Journey",
+    "category": "book",
+    "price": 38,
+    "image": "📖",
+    "featured": false,
+    "description": "An autobiography documenting the creative journey and personal transformations of an artist. Filled with inspiring stories and beautiful illustrations.",
+    "details": "Paperback, 320 pages, Full-color illustrations",
+    "shortDescription": "Personal art journey memoir"
+  },
+  {
+    "id": 6,
+    "name": "Forest Sanctuary",
+    "category": "painting",
+    "price": 580,
+    "image": "🌲",
+    "featured": false,
+    "description": "A lush forest scene with vibrant greens and hidden creatures. Brings nature's tranquility into your home.",
+    "details": "Mixed media, 28x22 inches",
+    "shortDescription": "Nature-inspired forest artwork"
+  },
+  {
+    "id": 7,
+    "name": "Color Theory Exploration",
+    "category": "book",
+    "price": 52,
+    "image": "📕",
+    "featured": false,
+    "description": "A comprehensive guide to understanding colors in art. Includes techniques, theory, and stunning visual examples.",
+    "details": "Hardcover, 288 pages, Interactive samples included",
+    "shortDescription": "Color theory and techniques guide"
+  },
+  {
+    "id": 8,
+    "name": "Urban Reflections",
+    "category": "painting",
+    "price": 620,
+    "image": "🏙️",
+    "featured": false,
+    "description": "A contemporary piece exploring the reflection of buildings in water. Modern and striking composition.",
+    "details": "Acrylic on canvas, 32x24 inches",
+    "shortDescription": "Contemporary urban landscape"
+  },
+  {
+    "id": 9,
+    "name": "Techniques Masterclass",
+    "category": "book",
+    "price": 60,
+    "image": "📗",
+    "featured": false,
+    "description": "Learn advanced painting techniques from a professional artist. Step-by-step instructions with photography.",
+    "details": "Hardcover, 400 pages, Dust jacket included",
+    "shortDescription": "Painting techniques tutorial"
+  },
+  {
+    "id": 10,
+    "name": "Starlight Symphony",
+    "category": "painting",
+    "price": 925,
+    "image": "⭐",
+    "featured": false,
+    "description": "A magical night sky painting with stars and constellations. Evokes wonder and cosmic beauty.",
+    "details": "Oil on canvas, 40x30 inches, Signed and dated",
+    "shortDescription": "Celestial starry night"
+  }
+]

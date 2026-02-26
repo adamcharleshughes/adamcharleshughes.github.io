@@ -1,7 +1,7 @@
 # Artistic Creations - E-Commerce Website
 
 A modern, responsive website for displaying and selling paintings and books. Built with vanilla HTML, CSS, and JavaScript.
-
+RENTO
 ## 📁 Project Structure
 
 ```
@@ -265,3 +265,4 @@ For questions or issues:
 ---
 
 **Happy selling! 🎨📚**
+
